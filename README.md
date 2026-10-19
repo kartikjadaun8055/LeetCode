@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/kartikjadaun8055/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kartikjadaun8055/LeetCode/tree/master/0011-container-with-most-water) |
+| [0217-contains-duplicate](https://github.com/kartikjadaun8055/LeetCode/tree/master/0217-contains-duplicate) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartikjadaun8055/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikjadaun8055/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/kartikjadaun8055/LeetCode/tree/master/0217-contains-duplicate) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartikjadaun8055/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -24,4 +26,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartikjadaun8055/LeetCode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kartikjadaun8055/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
