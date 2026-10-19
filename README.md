@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kartikjadaun8055/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kartikjadaun8055/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kartikjadaun8055/LeetCode/tree/master/0242-valid-anagram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartikjadaun8055/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -30,4 +31,9 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kartikjadaun8055/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kartikjadaun8055/LeetCode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/kartikjadaun8055/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
