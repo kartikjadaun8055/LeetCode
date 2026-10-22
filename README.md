@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/kartikjadaun8055/LeetCode/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/kartikjadaun8055/LeetCode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/kartikjadaun8055/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/kartikjadaun8055/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kartikjadaun8055/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartikjadaun8055/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kartikjadaun8055/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/kartikjadaun8055/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kartikjadaun8055/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kartikjadaun8055/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -40,4 +42,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kartikjadaun8055/LeetCode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kartikjadaun8055/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/kartikjadaun8055/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
