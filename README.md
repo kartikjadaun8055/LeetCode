@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartikjadaun8055/LeetCode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/kartikjadaun8055/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kartikjadaun8055/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kartikjadaun8055/LeetCode/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kartikjadaun8055/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
